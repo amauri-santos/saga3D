@@ -1,0 +1,7 @@
+{
+  "name": "saga3d",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
